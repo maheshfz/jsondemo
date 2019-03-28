@@ -14,6 +14,9 @@ import javax.json.JsonWriter;
 
 public class PurchaseOrederReader {
 
+	 int m=90;
+	 
+	
 	public int getQuantity(String inFile) throws FileNotFoundException {
 	
 		   File jsonInputFile = new File(inFile);
