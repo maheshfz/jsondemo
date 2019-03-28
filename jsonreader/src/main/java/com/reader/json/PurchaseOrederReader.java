@@ -12,8 +12,7 @@ import javax.json.JsonReader;
 public class PurchaseOrederReader {
 
 	 int m=90;
-	int j=0;
-	
+     int j=9;
 	
 	public int getQuantity(String inFile) throws FileNotFoundException {
 	
