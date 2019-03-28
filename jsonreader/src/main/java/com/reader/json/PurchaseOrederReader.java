@@ -13,8 +13,6 @@ public class PurchaseOrederReader {
 
 	 int m=90;
 	int j=0;
-	 
-	 int k=0;
 	
 	public int getQuantity(String inFile) throws FileNotFoundException {
 	
