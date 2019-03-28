@@ -1,0 +1,18 @@
+{
+	"isbnNo": "isbn3",
+	"title": "let us c",
+	"author": [
+		{
+			"authorName": "yashaeant Kanetkar",
+			"dob": "1990-01-10"
+		},
+		{
+			"authorName": "yashaeant Kanetkar",
+			"dob": "1990-01-10"
+		}
+	],
+	"publisher": {
+		"publisherName": "wroxStore",
+		"establishedDate": "2019-02-12"
+	}
+}

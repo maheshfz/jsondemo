@@ -1,0 +1,15 @@
+{
+	"invoiceNo": 12,
+	"distributerName": "rekha graphics",
+	"amount": 230.002,
+	"consignemnet": [
+		{
+			"awbNo": 2,
+			"cno": 2
+		},
+		{
+			"awbNo": 2,
+			"cno": 2
+		}
+	]
+}
